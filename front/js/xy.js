@@ -1,1 +1,1 @@
-console.log('hola mundo')
+export function(){console.log('hola mundo')}
