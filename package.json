@@ -1,0 +1,26 @@
+{
+  "name": "controller",
+  "version": "1.0.0",
+  "description": "lo que une las apis wasm con el resto de todo",
+  "main": "App.js",
+  "scripts": {
+    "test": "node App.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielsbadenas/python-wasm-api.git"
+  },
+  "keywords": [
+    "wasm",
+    "javascript"
+  ],
+  "author": "gabriel fernando sanchez badenas",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/gabrielsbadenas/python-wasm-api/issues"
+  },
+  "homepage": "https://github.com/gabrielsbadenas/python-wasm-api#readme",
+  "dependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
